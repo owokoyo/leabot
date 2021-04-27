@@ -1,0 +1,14 @@
+{
+  "name": "lea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "v2index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
